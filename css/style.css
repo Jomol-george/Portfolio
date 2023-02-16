@@ -1,0 +1,13 @@
+/* Author:JOMOL GEORGE
+Date:15-02-2023 */
+
+.propic {
+    width: 50%;
+    height: 70%;
+}
+.pic:hover {
+    transform: scale(1.5);
+}
+.pic {
+    width: 200px;
+}
